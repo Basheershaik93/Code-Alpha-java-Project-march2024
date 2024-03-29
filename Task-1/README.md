@@ -1,3 +1,13 @@
+Task-Description
+
+Task Name: Student Grade Tracker
+ Develop a program that allows a teacher to enter student's grades and compute their average,
+    highest, and lowest scores. You can use arrays or ArrayLists to store the student data.
+
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
